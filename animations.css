@@ -1,0 +1,55 @@
+#icecream {
+ transition: transform 0.3s;
+}
+
+#icecream:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
+}
+
+#shakes {
+  transition: transform 0.3s;
+ }
+ 
+ #shakes:hover {
+   transform: scale(1.1);
+   opacity: 0.8;
+ }
+
+ #pastas {
+  transition: transform 0.3s;
+ }
+ 
+ #pastas:hover {
+   transform: scale(1.1);
+   opacity: 0.8;
+ }
+
+ #popsicle {
+  transition: transform 0.3s;
+  }
+ 
+ #popsicle:hover {
+   transform: scale(1.1);
+   opacity: 0.8;
+ }
+
+ @keyframes topdown {
+
+  0% {
+    opacity: 0;
+    transform: translateY(-15px);
+  }
+
+  
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+ }
+
+ #logo {
+  animation: topdown 2s forwards ease-in-out;
+ }
+
+  
