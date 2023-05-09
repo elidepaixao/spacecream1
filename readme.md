@@ -39,4 +39,4 @@ Trabalhando conceito mobile first e animações css comoa exemplo das @keyframes
 Você pode visualizar o projeto através [DESSE LINK](https://www.figma.com/file/Sh4dkxm2A3ItqYZQy7dQWz/Stage-03---Mobile-First-(Copy)?type=design&node-id=0-1&t=hO6ygTELs7ClytYP-0)
 
 
-- [Visite o projeto online](https://elidepaixao.github.io/cartao-de-visitas/)
+- [Visite o projeto online](elidepaixao.github.io/spacecream1/)
