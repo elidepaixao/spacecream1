@@ -1,4 +1,4 @@
-<h1 align="center"> Space Cream </h1>
+<h1 align="center"> Space Cream Desktop and Mobile</h1>
 
 <p align="center">
 Site de sorvetes <br/>
@@ -18,7 +18,7 @@ Site de sorvetes <br/>
 <br>
 
 <p align="center">
-  <img alt="sorvetes" src=".github/header.jpg" width="100%">
+  <img alt="sorvetes" src=".github/readme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,17 +26,16 @@ Site de sorvetes <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
-Trabalhando conceito mobile first e animações css comoa exemplo das @keyframes e :hover
+Trabalhando o conceito mobile first e animações CSS
 
 ## Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://www.figma.com/file/Sh4dkxm2A3ItqYZQy7dQWz/Stage-03---Mobile-First-(Copy)?type=design&node-id=0-1&t=hO6ygTELs7ClytYP-0)
+Você pode visualizar o projeto através [DESSE LINK](https://www.https://www.figma.com/file/YkJZvFRcfh61UWOq1vo96Q/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=6%3A2&mode=dev)
 
 
-- [Visite o projeto online](elidepaixao.github.io/spacecream1/)
+- [Visite o projeto online](elidepaixao.github.io/spacecream/)
